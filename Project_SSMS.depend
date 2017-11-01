@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1490076453 source:f:\dropbox\study\semester 13\cse 107\lab\project_ssms\main.cpp
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+	<stdio.h>
+
+1491908066 source:c:\users\5000 series\desktop\temp\project_ssms\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1492085262 source:c:\users\5000 series\desktop\temp\super shop managment\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1492617562 source:f:\mega\study\semester 13\cse 107\lab\project_ssms\super shop managment\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
