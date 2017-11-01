@@ -1,7 +1,7 @@
 # Super-Shop-Manamgment-System
 The purpose of this project is to manage a super shop.
 
-***Admin Panel*** 
+***Admin Panel*** (Admin ID: admin; Admin Pass: 1234) 
 - Admin can Add Products to the store
 - Change the price of the product
 - Delete Products
